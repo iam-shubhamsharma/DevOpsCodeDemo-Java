@@ -36,7 +36,7 @@ jobs:
           host: '13.234.11.226'
           user: 'labuser'
           pass: 'Nuvelabs123$'
-          port: 22
+          port: 22egre
           connect_timeout: 10s
           first_ssh: |
             sudo curl -l -u admin:112f4d514ee8164b378c74437ece0dd52c http://localhost:8080/job/DeploymentJob/build?token=token12
